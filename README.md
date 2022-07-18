@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Electron and Vue
-- 🤔 I’m looking for help with ![掘金](https://juejin.cn/pins)
+- 🤔 I’m looking for help with [掘金](https://juejin.cn/frontend)
 -  :满意: :满意: :满意:
 <!--
 **Payegen/Payegen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
